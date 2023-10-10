@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ThelNandarSoe
-- 👀 I’m interested in (shuu . . .) umm CSE
+- 👀 I’m interested in CSE
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... 
